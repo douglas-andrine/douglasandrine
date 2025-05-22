@@ -30,7 +30,7 @@
 ## Projetos em destaque
 
 - **Hermes**: Sistema PDV com funcionalidades de vendas, cadastro de produtos, controle de validade e gestão de estoque.
-- **Crypto Tracker**: Projeto pessoal para monitoramento do mercado de criptomoedas.
+- **Crypto Trend**: Projeto pessoal para monitoramento do mercado de criptomoedas.
 - **Landing Pages**: Desenvolvimento de interfaces profissionais e responsivas com React e TypeScript.
 
 ---
